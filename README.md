@@ -1,1 +1,4 @@
-# vadlamudigirish
+In graph theory, a branch of mathematics and computer science, the Chinese postman problem, postman tour or route inspection problem is to find a shortest closed path or circuit that visits every edge of an (connected) undirected graph.
+The (Chinese) Postman Problem, also called Postman Tour or Route Inspection Problem, is a famous problem in Graph Theory: The postman's job is to deliver all of the town's mail using the shortest route possible. In order to do so, he (or she) must pass each street once and then return to the origin.
+We model this problem using a directed graph. Edges and nodes represent streets and intersections, respectively. The length of a street is represented by the weight of the corresponding edge. By using directed edges, it's possible to also account for one-way-streets etc in the graph.
+In the example attached we have solved the shotest path to cover the completer SRH Hochschule Heidelberg campus by considering the campus map.
